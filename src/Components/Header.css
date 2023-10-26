@@ -1,0 +1,15 @@
+.heading-container {
+  width: 100%;
+  background: linear-gradient(to right, rgb(76, 105, 236), rgb(48, 79, 218));
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.main-heading {
+  color: rgb(19, 13, 54);
+  padding-left: 0.5rem;
+  font-size: xx-large;
+  font-weight: 700;
+}
+.main-heading:hover {
+  cursor: pointer;
+}
