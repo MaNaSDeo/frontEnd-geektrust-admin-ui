@@ -1,5 +1,6 @@
-# Admin UI Application ```https://admin-ui-geektrust-manas.netlify.app/```
+# Admin UI Application 
 
+```https://admin-ui-geektrust-manas.netlify.app/```
 This is a simple web application for managing user data with features like searching, editing, and deleting users. The application is built using React and Material-UI components.
 
 ## Features
